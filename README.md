@@ -1,1 +1,2 @@
-# shapelink-privacy-policy
+Hosting of pages for Jaelistus Apps:
+- Privacy Policy
